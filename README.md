@@ -1,10 +1,8 @@
-# [NESSC Website based on Start Bootstrap - Stylish Portfolio](https://nessc.org)
+# [NESSC Website based on Start Bootstrap - Stylish Portfolio](https://nessc.org)]
 
 ## Preview
 
-[![NESSC Preview](https://nessc.org)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
+[![NESSC Preview](https://nessc.org)]
 
 ## Status
 
@@ -46,4 +44,5 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 Copyright 2017-2018 New England Sikh Study Circle, Inc.
+
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
