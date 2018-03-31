@@ -1,8 +1,8 @@
-# [NESSC Website based on Start Bootstrap - Stylish Portfolio](https://nessc.org)]
+# [NESSC Website based on Start Bootstrap - Stylish Portfolio](https://nessc.org)
 
 ## Preview
 
-[![NESSC Preview](https://nessc.org)]
+[![NESSC Preview](https://nessc.org/img/bg1.jpg)](https://nessc.org)
 
 ## Status
 
